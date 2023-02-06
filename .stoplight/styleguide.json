@@ -1,0 +1,49 @@
+{
+  "name": "Stoplight Style Guide Demo",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjEyMzU4Ng",
+    "cHJqOjE4MjgzMA"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjEyMzU4Ng",
+      "name": "Stoplight Style Guide",
+      "slug": "stoplight-style-guide",
+      "workspace": {
+        "slug": "apistylebook",
+        "name": "API Stylebook"
+      },
+      "icon": "robot",
+      "color": "#3898ff",
+      "description": "Default rules for Stoplight projects",
+      "latestRelease": {
+        "release": 37
+      }
+    },
+    {
+      "id": "cHJqOjE4MjgzMA",
+      "name": "Demo Style Guide",
+      "slug": "demo-style-guide",
+      "workspace": {
+        "slug": "bottlerocketstudios",
+        "name": "bottlerocketstudios"
+      },
+      "icon": "pencil-ruler",
+      "color": "#43aaec",
+      "latestRelease": {
+        "release": 3
+      }
+    }
+  ],
+  "extendedDefault": true
+}

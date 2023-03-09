@@ -154,7 +154,6 @@ components:
     User:
       title: User
       type: object
-      description: ''
       examples:
         - id: 142
           firstName: Alice

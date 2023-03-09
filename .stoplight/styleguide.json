@@ -1,5 +1,5 @@
 {
-  "name": "Stoplight Style Guide Demo",
+  "name": "Demo",
   "description": "",
   "spectralExtends": [],
   "extends": [
@@ -41,7 +41,7 @@
       "icon": "pencil-ruler",
       "color": "#43aaec",
       "latestRelease": {
-        "release": 3
+        "release": 4
       }
     }
   ],

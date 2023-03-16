@@ -184,11 +184,6 @@ components:
           type: string
           format: date
           description: The date that the user was created.
-        alias:
-          type: string
-          x-stoplight:
-            id: pc0ffoisj7738
-          description: User alias
       required:
         - id
         - firstName
